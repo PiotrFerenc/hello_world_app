@@ -1,4 +1,5 @@
 ## Amazing Hello World App
+# CI UPDATED
 
 1. Do not forget to use the virtual python env:
 
